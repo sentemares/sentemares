@@ -1,0 +1,61 @@
+body {
+    background: #eee4ee;
+    background-repeat:no-repeat;
+    background-attachment: absolute;
+    background-position:center;
+    font-family: "Arial", "Cambria", sans-serif;
+    font-size : 11px;
+    color: #aeaeae;
+    margin: 0px;
+}
+
+.bgx { background: url(""); background-position: top center; background-repeat: repeat-x;}
+
+.table {
+background-color: #f5eef5;
+width: 600px;
+text-align: justify;
+padding: 20px;}
+
+.tabletrans {
+width: 1000px;
+}
+
+.info {
+background-color: #f5eef5;
+width: 235px;
+padding: 10px;
+text-align: justify;
+color: #b5a2b5;
+font-family: arial;
+line-height: 10px;
+text-shadow: 1px 1px#fdfbfd;}
+
+a, a:link{
+color: #7dc9c7;
+font-family: calibri;
+font-size: 12px;
+font-style: normal;
+
+letter-spacing: 0px;
+text-transform: none;
+cursor: hand;
+line-height: 13px;}
+
+a:hover {
+color: #76bfbd;
+font-family: calibri;
+font-size: 12px;
+text-transform: none;
+
+font-style: normal;
+letter-spacing: 0px;
+padding: 0px;
+TEXT-DECORATION: none;
+line-height: 13px;}
+
+</style>
+
+<body>
+<head>
+<title>SENTE A MARESIA.</title>
